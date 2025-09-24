@@ -2,7 +2,7 @@
   "languages": [
     {
       "name": "Java",
-      "image": "https://Selami7321.github.io/lookmarkcet-datas/java.jpg",
+      "image": "https://Selami7321.github.io/lookmarkcet-datas/java.webp",
       "description": "Java, nesne yönelimli, platform bağımsız, yaygın kullanılan bir programlama dilidir.",
       "lessons": [
         "Java Temel Sözdizimi",
@@ -17,7 +17,7 @@
     },
     {
       "name": "Python",
-      "image": "https://Selami7321.github.io/lookmarkcet-datas/python.jpg",
+      "image": "https://Selami7321.github.io/lookmarkcet-datas/python.png",
       "description": "Python, basit sözdizimi ve güçlü kütüphaneleri ile çok yönlü bir programlama dilidir.",
       "lessons": [
         "Python Temelleri",
