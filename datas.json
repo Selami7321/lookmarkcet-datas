@@ -1,0 +1,34 @@
+{
+  "languages": [
+    {
+      "name": "Java",
+      "image": "https://Selami7321.github.io/lookmarkcet-datas/java.jpg",
+      "description": "Java, nesne yönelimli, platform bağımsız, yaygın kullanılan bir programlama dilidir.",
+      "lessons": [
+        "Java Temel Sözdizimi",
+        "Değişkenler ve Veri Tipleri",
+        "Kontrol Yapıları (if, switch, döngüler)",
+        "Nesne Yönelimli Programlama (Sınıflar, Nesneler, Kalıtım)",
+        "Exception Handling",
+        "Collections Framework",
+        "JavaFX ile GUI",
+        "Spring Boot ile Web Geliştirme"
+      ]
+    },
+    {
+      "name": "Python",
+      "image": "https://Selami7321.github.io/lookmarkcet-datas/python.jpg",
+      "description": "Python, basit sözdizimi ve güçlü kütüphaneleri ile çok yönlü bir programlama dilidir.",
+      "lessons": [
+        "Python Temelleri",
+        "Veri Tipleri ve Operatörler",
+        "Koşullar ve Döngüler",
+        "Fonksiyonlar ve Modüller",
+        "Nesne Yönelimli Programlama",
+        "Dosya İşlemleri",
+        "NumPy ve Pandas ile Veri Analizi",
+        "Django ile Web Geliştirme"
+      ]
+    }
+  ]
+}
