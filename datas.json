@@ -7,15 +7,28 @@
       "lessons": [
         {
           "title": "Java Temel Sözdizimi",
-          "url": "https://www.w3schools.com/java/java_syntax.asp"
+          "url": "https://www.w3schools.com/java/java_syntax.asp",
+          "local_content": "" 
         },
         {
           "title": "Değişkenler ve Veri Tipleri",
-          "url": "https://academy.patika.dev/courses/java101/degiskenler-veri-tipleri"
+          "url": "https://academy.patika.dev/courses/java101/degiskenler-veri-tipleri",
+          "local_content": ""
         },
         {
           "title": "Kontrol Yapıları (if, switch, döngüler)",
-          "url": "https://www.w3schools.com/java/java_conditions.asp"
+          "url": "https://academy.patika.dev/courses/java101/kosullu-ifadeler-ve-donguler",
+          "local_content": ""
+        },
+        {
+          "title": "Sınıflar ve Nesneler",
+          "url": "https://academy.patika.dev/courses/java101/siniflar-ve-nesneler",
+          "local_content": ""
+        },
+        {
+          "title": "Miras ve Polimorfizm",
+          "url": "https://academy.patika.dev/courses/java101/miras-ve-polimorfizm",
+          "local_content": ""
         }
       ]
     },
@@ -26,18 +39,30 @@
       "lessons": [
         {
           "title": "Python Temelleri",
-          "url": "https://www.w3schools.com/python/python_syntax.asp"
+          "url": "https://www.w3schools.com/python/python_syntax.asp",
+          "local_content": ""
         },
         {
           "title": "Veri Tipleri ve Operatörler",
-          "url": "https://www.geeksforgeeks.org/python-data-types/"
+          "url": "https://www.geeksforgeeks.org/python-data-types/",
+          "local_content": ""
         },
         {
           "title": "Koşullar ve Döngüler",
-          "url": "https://www.w3schools.com/python/python_conditions.asp"
+          "url": "https://www.w3schools.com/python/python_conditions.asp",
+          "local_content": ""
+        },
+        {
+          "title": "Sınıflar ve Nesneler",
+          "url": "https://www.w3schools.com/python/python_classes.asp",
+          "local_content": ""
+        },
+        {
+          "title": "Miras ve Polimorfizm",
+          "url": "https://www.geeksforgeeks.org/python-oops-concepts/",
+          "local_content": ""
         }
       ]
     }
   ]
 }
-
