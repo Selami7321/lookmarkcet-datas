@@ -48,12 +48,17 @@
           "local_content": "<h1>Veri Tipleri ve Operatörler (Yerel)</h1><p>Python temel veri tipleri: int, float, str, list, tuple, dict. Operatörler: +, -, *, /, %, //.</p>"
         },
         {
+          // LOGCAT'TE ARANAN DERS EKLENDİ
+          "title": "Listeler ve Sözlükler",
+          "url": "https://www.w3schools.com/python/python_lists.asp",
+          "local_content": "<h1>Listeler ve Sözlükler (Yerel)</h1><p>Python'da Listeler (<code>[]</code>), sıralı ve değiştirilebilir veri koleksiyonlarıdır. Sözlükler (<code>{}</code>) ise anahtar-değer çiftlerinden oluşur.</p>"
+        },
+        {
           "title": "Koşullar ve Döngüler",
           "url": "https://www.w3schools.com/python/python_conditions.asp",
           "local_content": "<h1>Koşullar ve Döngüler (Yerel)</h1><p>Koşullar için if/elif/else, döngüler için for ve while kullanılır. (Python'daki özel söz dizimine dikkat edin.)</p>"
         },
         {
-          // Logcat'te aranan ders başlığı birebir eklendi.
           "title": "Modüller ve Kütüphaneler",
           "url": "https://docs.python.org/3/tutorial/modules.html",
           "local_content": "<h1>Modüller ve Kütüphaneler (Yerel)</h1><p>Modüller (ör: <code>math</code>) kod tekrarını önlerken, kütüphaneler (ör: NumPy, Pandas) geniş işlevsellik sağlar. Modüller <code>import</code> ile dahil edilir.</p>"
