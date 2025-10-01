@@ -38,12 +38,12 @@
       "description": "Python, basit sözdizimi ve güçlü kütüphaneleri ile çok yönlü bir programlama dilidir.",
       "lessons": [
         {
-          "title": "Temel Sözdizimi", // Çalışan versiyon
+          "title": "Temel Sözdizimi", 
           "url": "https://www.w3schools.com/python/python_syntax.asp",
           "local_content": "<h1>Python Temel Sözdizimi (Yerel)</h1><p>Python'da bloklar (gövde), süslü parantez yerine girintileme (indentation) ile belirlenir.</p><code>print(\"Merhaba Dünya\")</code>"
         },
         {
-          // Kısaltıldı: Sadece Intent'ten gelen ana kelimeler bırakıldı
+          // Başlık kısaltıldı: "Veri Tipleri ve Operatörler" -> "Veri Tipleri"
           "title": "Veri Tipleri", 
           "url": "https://www.geeksforgeeks.org/python-data-types/",
           "local_content": "<h1>Veri Tipleri ve Operatörler (Yerel)</h1><p>Python temel veri tipleri: int, float, str, list, tuple, dict. Operatörler: +, -, *, /, %, //.</p>"
@@ -52,6 +52,12 @@
           "title": "Koşullar ve Döngüler",
           "url": "https://www.w3schools.com/python/python_conditions.asp",
           "local_content": "<h1>Koşullar ve Döngüler (Yerel)</h1><p>Koşullar için if/elif/else, döngüler için for ve while kullanılır. (Python'daki özel söz dizimine dikkat edin.)</p>"
+        },
+        // EKLEME: Logcat'te aranan "Modüller ve Kütüphaneler" eklendi
+        {
+          "title": "Modüller ve Kütüphaneler", 
+          "url": "https://docs.python.org/3/tutorial/modules.html", // Yeni URL eklendi
+          "local_content": "<h1>Modüller ve Kütüphaneler (Yerel)</h1><p>Modüller (ör: <code>math</code>) kod tekrarını önlerken, kütüphaneler (ör: NumPy, Pandas) geniş işlevsellik sağlar. Modüller <code>import</code> ile dahil edilir.</p>"
         },
         {
           "title": "Sınıflar ve Nesneler",
