@@ -16,7 +16,7 @@
           "local_content": "<h1>Değişkenler ve Veri Tipleri (Yerel)</h1><p>Java'da değişken tipleri: int, double, boolean gibi temel tiplerdir. Değişken adı küçük harfle başlamalıdır.</p>"
         },
         {
-          "title": "Döngüler ve Koşullar", 
+          "title": "Döngüler ve Koşullar",
           "url": "https://academy.patika.dev/courses/java101/kosullu-ifadeler-ve-donguler",
           "local_content": "<h1>Döngüler ve Koşullar (Yerel)</h1><p>Java'da if, else, switch ifadeleri koşul yapısı için, for, while, do-while döngüleri tekrar için kullanılır.</p>"
         },
@@ -38,13 +38,12 @@
       "description": "Python, basit sözdizimi ve güçlü kütüphaneleri ile çok yönlü bir programlama dilidir.",
       "lessons": [
         {
-          "title": "Temel Sözdizimi", 
+          "title": "Temel Sözdizimi",
           "url": "https://www.w3schools.com/python/python_syntax.asp",
           "local_content": "<h1>Python Temel Sözdizimi (Yerel)</h1><p>Python'da bloklar (gövde), süslü parantez yerine girintileme (indentation) ile belirlenir.</p><code>print(\"Merhaba Dünya\")</code>"
         },
         {
-          // Başlık kısaltıldı: "Veri Tipleri ve Operatörler" -> "Veri Tipleri"
-          "title": "Veri Tipleri", 
+          "title": "Veri Tipleri",
           "url": "https://www.geeksforgeeks.org/python-data-types/",
           "local_content": "<h1>Veri Tipleri ve Operatörler (Yerel)</h1><p>Python temel veri tipleri: int, float, str, list, tuple, dict. Operatörler: +, -, *, /, %, //.</p>"
         },
@@ -53,10 +52,10 @@
           "url": "https://www.w3schools.com/python/python_conditions.asp",
           "local_content": "<h1>Koşullar ve Döngüler (Yerel)</h1><p>Koşullar için if/elif/else, döngüler için for ve while kullanılır. (Python'daki özel söz dizimine dikkat edin.)</p>"
         },
-        // EKLEME: Logcat'te aranan "Modüller ve Kütüphaneler" eklendi
         {
-          "title": "Modüller ve Kütüphaneler", 
-          "url": "https://docs.python.org/3/tutorial/modules.html", // Yeni URL eklendi
+          // Logcat'te aranan ders başlığı birebir eklendi.
+          "title": "Modüller ve Kütüphaneler",
+          "url": "https://docs.python.org/3/tutorial/modules.html",
           "local_content": "<h1>Modüller ve Kütüphaneler (Yerel)</h1><p>Modüller (ör: <code>math</code>) kod tekrarını önlerken, kütüphaneler (ör: NumPy, Pandas) geniş işlevsellik sağlar. Modüller <code>import</code> ile dahil edilir.</p>"
         },
         {
