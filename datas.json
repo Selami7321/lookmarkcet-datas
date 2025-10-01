@@ -16,7 +16,8 @@
           "local_content": "<h1>Değişkenler ve Veri Tipleri (Yerel)</h1><p>Java'da değişken tipleri: int, double, boolean gibi temel tiplerdir. Değişken adı küçük harfle başlamalıdır.</p>"
         },
         {
-          "title": "Döngüler ve Koşullar",
+          // Logcat'te aranan "döngüler ve koşullar" ile zaten eşleşiyordu.
+          "title": "Döngüler ve Koşullar", 
           "url": "https://academy.patika.dev/courses/java101/kosullu-ifadeler-ve-donguler",
           "local_content": "<h1>Döngüler ve Koşullar (Yerel)</h1><p>Java'da if, else, switch ifadeleri koşul yapısı için, for, while, do-while döngüleri tekrar için kullanılır.</p>"
         },
@@ -38,7 +39,8 @@
       "description": "Python, basit sözdizimi ve güçlü kütüphaneleri ile çok yönlü bir programlama dilidir.",
       "lessons": [
         {
-          "title": "Python Temel Sözdizimi",
+          // Logcat'te aranan "temel sözdizimi" ile eşleşmesi için düzeltildi.
+          "title": "Temel Sözdizimi", 
           "url": "https://www.w3schools.com/python/python_syntax.asp",
           "local_content": "<h1>Python Temel Sözdizimi (Yerel)</h1><p>Python'da bloklar (gövde), süslü parantez yerine girintileme (indentation) ile belirlenir.</p><code>print(\"Merhaba Dünya\")</code>"
         },
