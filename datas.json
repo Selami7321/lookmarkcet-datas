@@ -5,14 +5,18 @@
       "image": "https://Selami7321.github.io/lookmarkcet-datas/java.webp",
       "description": "Java, nesne yönelimli, platform bağımsız, yaygın kullanılan bir programlama dilidir.",
       "lessons": [
-        "Java Temel Sözdizimi",
-        "Değişkenler ve Veri Tipleri",
-        "Kontrol Yapıları (if, switch, döngüler)",
-        "Nesne Yönelimli Programlama (Sınıflar, Nesneler, Kalıtım)",
-        "Exception Handling",
-        "Collections Framework",
-        "JavaFX ile GUI",
-        "Spring Boot ile Web Geliştirme"
+        {
+          "title": "Java Temel Sözdizimi",
+          "url": "https://www.w3schools.com/java/java_syntax.asp"
+        },
+        {
+          "title": "Değişkenler ve Veri Tipleri",
+          "url": "https://www.javatpoint.com/java-variables"
+        },
+        {
+          "title": "Kontrol Yapıları (if, switch, döngüler)",
+          "url": "https://www.w3schools.com/java/java_conditions.asp"
+        }
       ]
     },
     {
@@ -20,15 +24,20 @@
       "image": "https://Selami7321.github.io/lookmarkcet-datas/python.png",
       "description": "Python, basit sözdizimi ve güçlü kütüphaneleri ile çok yönlü bir programlama dilidir.",
       "lessons": [
-        "Python Temelleri",
-        "Veri Tipleri ve Operatörler",
-        "Koşullar ve Döngüler",
-        "Fonksiyonlar ve Modüller",
-        "Nesne Yönelimli Programlama",
-        "Dosya İşlemleri",
-        "NumPy ve Pandas ile Veri Analizi",
-        "Django ile Web Geliştirme"
+        {
+          "title": "Python Temelleri",
+          "url": "https://www.w3schools.com/python/python_syntax.asp"
+        },
+        {
+          "title": "Veri Tipleri ve Operatörler",
+          "url": "https://www.geeksforgeeks.org/python-data-types/"
+        },
+        {
+          "title": "Koşullar ve Döngüler",
+          "url": "https://www.w3schools.com/python/python_conditions.asp"
+        }
       ]
     }
   ]
 }
+
